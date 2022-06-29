@@ -300,6 +300,7 @@ class _DailyNeedCalculator extends State<DailyNeedCalculator> {
                                       height: 10,
                                     ),
                                     TextWidget(text: 'Fat', fontsize: 15,fontWieght: FontWeight.bold),
+
                                   ],
                                 ),
                               ],

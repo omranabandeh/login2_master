@@ -282,7 +282,7 @@ List<Meal> mealList = [
     sugarFree: true,
     pressure_disease: true,
     kidney_patients: true,
-    gout: true,
+    gout: false,
   ),
   Meal(
     foodElements: [],
@@ -321,7 +321,7 @@ List<Meal> mealList = [
     sugarFree: true,
     pressure_disease: true,
     kidney_patients: true,
-    gout: true,
+    gout: false,
   ),
   Meal(
     foodElements: [

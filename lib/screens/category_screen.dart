@@ -11,6 +11,7 @@ class CategoryScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
 
+
       body: ListView.builder(
         itemBuilder: (ctx, index) {
           Category category = Category_Data[index];

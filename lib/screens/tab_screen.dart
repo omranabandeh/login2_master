@@ -25,7 +25,7 @@ class _TabScreenState extends State<TabScreen> {
       child: Scaffold(
         drawer: DrawerScreen(favoriteMeal: [],),
         appBar: AppBar(
-          backgroundColor: kMainColor,
+          backgroundColor: Colors.indigo,
           title: Text(
             'Meals',
           ),
